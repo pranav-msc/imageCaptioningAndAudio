@@ -6,5 +6,7 @@ Generate Captions and Audio for the respective image
 In this project if you give an image,our code will generate the corrosponding caption for the respective image and also you will hear a speech which describes the respective image.
 Hence This will be very helpful for visually impared persons to know what is present in an image by listening to the audio which describes what the image is about!
 
-##Examples
+## Examples
+
+![alt text](https://github.com/pranav-msc/imageCaptioningAndAudio/blob/main/example_2.jpg)
  
