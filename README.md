@@ -11,3 +11,10 @@ Hence This will be very helpful for visually impared persons to know what is pre
 <img src="https://github.com/pranav-msc/imageCaptioningAndAudio/blob/main/ex.jpg" width="300" height="300"> 
 Caption generated for the corrosponding image-
 a man wearing a suit and tie with a tie .
+
+
+We also have other samples images on which you can read the corrosponding caption and hear the respective caption.
+
+
+## How to run the code
+
