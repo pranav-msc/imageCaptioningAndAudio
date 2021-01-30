@@ -30,6 +30,24 @@ python3 sample.py --image "path of the image"
 
 example code   -   python3 sample.py --image ex.jpg
 
+## Note
+
+It might be possible that you maybe popped by some errors(in case of error running sample.py)-
+
+So make sure you install requirements.txt file if you are popped by an error related to importing of a file
+
+
+
+pip install -r requirements.txt
+chmod +x download.sh
+./download.sh
+
+And also make sure you have libraries like gtts and its other sub models or functions installed
+
+
+
+In case the problem is not resolvable contact me!
+
 
 ## Reference
 
