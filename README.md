@@ -19,5 +19,32 @@ We also have other samples images on which you can read the corrosponding captio
 ## How to run the code
 
 [Link to download pretrianed model file(save these files inside model folder)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
-[Link to download vocab file(save these files inside data folder)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
+
+
+After downloading the pretrained weights the only thing need to be done is to test the model
+
+run the command to generate and hear the text(on terminal)-
+
+python3 sample.py --image <path of the image>
+
+
+example code   -   python3 sample.py --image ex.jpg
+
+
+## Reference
+
+
+[Click here to go the reference link](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
+
+
+## Winter project Members:
+
+
+Pranav Kotgire
+
+
+Ravi Chopra
+
+
+Deependra yadav
 
