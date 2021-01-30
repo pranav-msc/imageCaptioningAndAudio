@@ -25,7 +25,7 @@ After downloading the pretrained weights the only thing need to be done is to te
 
 run the command to generate and hear the text(on terminal)-
 
-python3 sample.py --image <path of the image>
+python3 sample.py --image "path of the image"
 
 
 example code   -   python3 sample.py --image ex.jpg
