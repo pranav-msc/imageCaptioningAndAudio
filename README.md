@@ -18,3 +18,5 @@ We also have other samples images on which you can read the corrosponding captio
 
 ## How to run the code
 
+[Link to download pretrianed model file(save these files inside model folder)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
+
