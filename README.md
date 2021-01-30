@@ -32,7 +32,7 @@ example code   -   python3 sample.py --image ex.jpg
 
 ## Note
 
-It might be possible that you maybe popped by some errors(in case of error running sample.py)-
+It might be possible that you maybe see by some errors(in case of error running sample.py)-
 
 So make sure you install requirements.txt file if you are popped by an error related to importing of a file
 
@@ -46,7 +46,7 @@ And also make sure you have libraries like gtts and its other sub models or func
 
 
 
-In case the problem is not resolvable contact me!
+In case the problem is not resolvable contact us!
 
 
 ## Reference
