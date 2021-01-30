@@ -55,7 +55,7 @@ In case the problem is not resolvable contact me!
 [Click here to go the reference link](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning)
 
 
-## Winter project Members:
+## Project Members:
 
 
 Pranav Kotgire
