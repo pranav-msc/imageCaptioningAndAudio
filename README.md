@@ -8,5 +8,5 @@ Hence This will be very helpful for visually impared persons to know what is pre
 
 ## Examples
 
-![alt text](https://github.com/pranav-msc/imageCaptioningAndAudio/blob/main/example_2.jpg)
+<img src="https://github.com/pranav-msc/imageCaptioningAndAudio/blob/main/ex.jpg" width="300" height="300">
  
