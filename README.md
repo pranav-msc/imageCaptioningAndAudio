@@ -18,14 +18,16 @@ We also have other samples images on which you can read the corrosponding captio
 
 ## How to run the code
 
-[Link to download pretrianed model file(save these files inside model folder)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
+1.Very first stp is to clone this repo
+
+2.[Link to download pretrianed model file(save these files inside model folder)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
 
 
 After downloading the pretrained weights the only thing need to be done is to test the model
 
 run the command to generate and hear the text(on terminal)-
 
-python3 sample.py --image "path of the image"
+3.python3 sample.py --image "path of the image"
 
 
 example code   -   python3 sample.py --image ex.jpg
