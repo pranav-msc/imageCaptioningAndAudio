@@ -3,8 +3,17 @@ Generate Captions and Audio for the respective image
 
 ## What the project is?
 
-In this project if you give an image,our code will generate the corrosponding caption for the respective image and also you will hear a speech which describes the respective image.
+In this project if you give an image,our code will generate the corrosponding caption(natural language description) for the respective image and also you will hear a speech which describes the respective image.
 Hence This will be very helpful for visually impared persons to know what is present in an image by listening to the audio which describes what the image is about!
+
+## Features and concepts used
+
+We have used encoders and decoders in this  project,the encoder is CNN(resnet-152,pretrained on ILSVRC-2012-CLS image classification dataset) while the decoder used is LSTM
+
+We have used nltk for the preprocessing task,argparse to accept command line arguments,etc.
+The entire code is implemented in pytorch as the deep learning library.
+
+
 
 ## Examples
 
@@ -36,10 +45,10 @@ example code   -   ``` python3 sample.py --image ex.jpg ```
 
 It might be possible that you may see by some errors(in case of error running sample.py)-
 
-So make sure you install requirements.txt file if you are popped by an error related to importing of a file
+So make sure you install requirements.txt file if you are popped by an error related to importing of a file,using these commands you can also download the dataset,so you may skip last 2 lines if you don't want to download dataset
 
 
-```python
+```
 pip install -r requirements.txt
 chmod +x download.sh
 ./download.sh
