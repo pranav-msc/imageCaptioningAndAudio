@@ -37,12 +37,11 @@ It might be possible that you may see by some errors(in case of error running sa
 So make sure you install requirements.txt file if you are popped by an error related to importing of a file
 
 
-
-(`pip install -r requirements.txt
-
+```python
+pip install -r requirements.txt
 chmod +x download.sh
-
-./download.sh`)
+./download.sh
+```
 
 And also make sure you have libraries like gtts and its other sub models or functions installed
 
