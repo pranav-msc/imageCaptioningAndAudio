@@ -8,7 +8,6 @@ from torchvision import transforms
 from build_vocab import Vocabulary
 from model import EncoderCNN, DecoderRNN
 from PIL import Image
-##These models were added
 from gtts import gTTS
 from timeit import default_timer as timer
 from sklearn.preprocessing import StandardScaler
@@ -70,6 +69,8 @@ def main(args):
 	
 	
     print (sentence)
+    ##Speech generation task
+	
     news=''
     choice=0
     for i in sentence:
