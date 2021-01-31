@@ -30,7 +30,7 @@ run the command to generate and hear the text(on terminal)-
 3.python3 sample.py --image "path of the image"
 
 
-example code   -   ``` python python3 sample.py --image ex.jpg ```
+example code   -   ``` python3 sample.py --image ex.jpg ```
 
 ## Note
 
