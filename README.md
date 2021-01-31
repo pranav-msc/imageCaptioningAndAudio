@@ -29,7 +29,7 @@ We also have other samples images on which you can read the corrosponding captio
 
 1.Very first stp is to clone this repo
 
-2.[Link to download pretrianed model file(save these files inside model folder)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
+2.[Link to download pretrianed model file(save these files inside models directory)](https://www.dropbox.com/s/ne0ixz5d58ccbbz/pretrained_model.zip?dl=0)
 
 
 After downloading the pretrained weights the only thing need to be done is to test the model
