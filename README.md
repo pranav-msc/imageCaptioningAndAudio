@@ -38,11 +38,11 @@ So make sure you install requirements.txt file if you are popped by an error rel
 
 
 
-pip install -r requirements.txt
+(`pip install -r requirements.txt
 
 chmod +x download.sh
 
-./download.sh
+./download.sh`)
 
 And also make sure you have libraries like gtts and its other sub models or functions installed
 
