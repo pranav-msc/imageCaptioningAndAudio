@@ -65,7 +65,10 @@ def main(args):
     sentence = ' '.join(sampled_caption)
     end=timer()
     # Print out the image and the generated caption
-    ##following line were changed
+    
+	
+	
+	
     print (sentence)
     news=''
     choice=0
@@ -87,7 +90,7 @@ def main(args):
     os.remove("newone.mp3")
 
     print("Total time taken: ",(end-start))
-    ##Upto this line changes were made
+    
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
