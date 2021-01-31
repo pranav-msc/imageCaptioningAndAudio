@@ -54,7 +54,7 @@ chmod +x download.sh
 ./download.sh
 ```
 
-And also make sure you have libraries like gtts and its other sub models or functions installed
+And also make sure you have libraries like gtts and its other sub modules or functions installed
 
 
 
