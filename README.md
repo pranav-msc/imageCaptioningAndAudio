@@ -3,7 +3,7 @@ Generate Captions and Audio for the respective image
 
 ## What the project is?
 
-In this project if you give an image,our code will generate the corrosponding caption(natural language description) for the respective image and also you will hear a speech which describes the respective image.
+In this project if you give an input image,our code will generate the corrosponding caption(natural language description) for the respective image and also you will hear a speech which describes the respective image.
 Hence This will be very helpful for visually impared persons to know what is present in an image by listening to the audio which describes what the image is about!
 
 ## Features and concepts used
